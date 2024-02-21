@@ -27,7 +27,9 @@ BTT HERMIT CRAB V2.0
 
 Parts I need to order: 
 TYPE: HERMIT CRAB V2.0 - STANDARD VERSION
+
 TYPE: HERMIT CRAB V2.0 - CAN VERSION
+
 Order 16.02.2024
 
 This will give you unlimited numbers of tools.
