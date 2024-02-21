@@ -8,10 +8,16 @@ immortal (as in Hydra one part (as in head) will stay the same ones you select M
 Combining  CNC and 3d printed parts best from both worlds.
 
 Very modular.
-Pin mod for the belt. I’m not giving up on this as working on the 3d printer is so nice. I currently have about 15 🦷 holding the belt, so that can maybe be made smaller number of tooth's. Credits "Boop".
+Pin mod for the belt. I’m not giving up on this as working on the 3d printer is so nice.
+
+I currently have about 15 🦷 holding the belt, so that can maybe be made smaller number of tooth's. Credits "Boop".
+
 NO heat inserts.
+
 NO glue
+
 Can be 3d printed or CNC or both.
+
 Magnet strength can be adjusted two different ways. They are secure and have no way of getting out.
 
 Credit for the rest is all currently available toolchanger you can find. E3D, Prusa, tapchanger, Stealthchanger. and so on.
