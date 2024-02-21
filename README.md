@@ -25,9 +25,9 @@ Pictures & Video ones I'm ready to release it to the public.
 Add: Compatibility
 BTT HERMIT CRAB V2.0
 
-Parts I need to order: 
-TYPE: HERMIT CRAB V2.0 - STANDARD VERSION
+Parts I need to order:
 
+TYPE: HERMIT CRAB V2.0 - STANDARD VERSION
 TYPE: HERMIT CRAB V2.0 - CAN VERSION
 
 Order 16.02.2024
