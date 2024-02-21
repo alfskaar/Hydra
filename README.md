@@ -2,9 +2,11 @@
 Hydra Toolchanger
 
 I just finished my new toolchanger "Hydra".
+
 CNC friendly
 immortal (as in Hydra one part (as in head) will stay the same ones you select MGN9H, MGN9C, MGN12H, MGN12C, 6mm, 9mm belts.
 Combining  CNC and 3d printed parts best from both worlds.
+
 Very modular.
 Pin mod for the belt. I’m not giving up on this as working on the 3d printer is so nice. I currently have about 15 🦷 holding the belt, so that can maybe be made smaller number of tooth's. Credits "Boop".
 NO heat inserts.
@@ -29,9 +31,9 @@ TYPE: HERMIT CRAB V2.0 - CAN VERSION
 Order 16.02.2024
 
 This will give you unlimited numbers of tools.
-Extruder
-Cutter
-Pen Plotter
-Laser Engraver
-Pick and place
+Extruder,
+Cutter,
+Pen Plotter,
+Laser Engraver,
+Pick and place,
 Other 
