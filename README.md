@@ -37,7 +37,7 @@ TYPE: HERMIT CRAB V2.0 - STANDARD VERSION
 
 TYPE: HERMIT CRAB V2.0 - CAN VERSION
 
-Order 16.02.2024
+Order 16.02.2024 , received 27.02.2024
 
 This will give you unlimited numbers of tools.
 Extruder,
