@@ -35,6 +35,8 @@ OPTOTAP
 
 X1 (Marlin)
 
+X1 (RepRapFirmware) ? TBD
+
 X1 ((Klipper) * (tools))
 
 https://lecktor.com/en/voron-tap/1395-optotap-pcb-v21-5-24v.html
