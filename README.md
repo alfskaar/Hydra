@@ -88,3 +88,4 @@ Other
 #
 ### Credits
 https://github.com/VoronDesign/Voron-Stealthburner
+https://github.com/VoronDesign/Voron-2
