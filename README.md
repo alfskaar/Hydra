@@ -92,3 +92,5 @@ https://github.com/VoronDesign/Voron-Stealthburner
 https://github.com/VoronDesign/Voron-2
 
 https://github.com/viesturz/tapchanger
+
+https://github.com/bigtreetech/HermitCrab/tree/master/HermitCrab2
