@@ -30,7 +30,8 @@ https://www.google.com/search?q=623+bearing
 Magnets, X2
 https://lecktor.com/en/v0-misc/390-round-n52-silver-magnets-6x3mm.html
 
-OPTOTAP, X1 (Marlin), X? Klipper * (tools)
+OPTOTAP, X1 (Marlin), X1 ((Klipper) * (tools))
+
 https://lecktor.com/en/voron-tap/1395-optotap-pcb-v21-5-24v.html
 #
 
