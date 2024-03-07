@@ -10,8 +10,6 @@ Pin
 https://www.aliexpress.com/item/1005004255703769.html?spm=a2g0o.order_detail.order_detail_item.5.19acf19c9m2qwo
 
 
-I just finished my new toolchanger "Hydra".
-
 CNC friendly
 immortal (as in Hydra one part (as in head) will stay the same ones you select MGN9H, MGN9C, MGN12H, MGN12C, 6mm, 9mm belts.
 Combining  CNC and 3d printed parts best from both worlds.
