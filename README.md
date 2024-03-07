@@ -27,7 +27,7 @@ https://www.google.com/search?q=623+bearing
 
 
 
-# CNC friendly
+CNC friendly
 immortal (as in Hydra one part (as in head) will stay the same ones you select MGN9H, MGN9C, MGN12H, MGN12C, 6mm, 9mm belts.
 Combining  CNC and 3d printed parts best from both worlds.
 
