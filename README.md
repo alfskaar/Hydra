@@ -12,7 +12,7 @@ https://www.aliexpress.com/item/1005004255703769.html?spm=a2g0o.order_detail.ord
 
 #
 
-Bushing, X3
+Bushing, X3 * (tools)
 <img width="106" alt="Bushing 2024-03-07 at 19 06 34" src="https://github.com/alfskaar/Hydra/assets/31868161/7c34069d-42de-4e2f-86f9-eac2bfdfe223">
 <img width="190" alt="Bushing 2024-03-07 at 19 06 13" src="https://github.com/alfskaar/Hydra/assets/31868161/8f7fdd81-2394-4efd-b3ed-29062f637ebc">
 
