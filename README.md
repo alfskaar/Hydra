@@ -91,6 +91,8 @@ https://github.com/VoronDesign/Voron-Stealthburner
 
 https://github.com/VoronDesign/Voron-2
 
+https://github.com/PrintersForAnts/Boop
+
 https://github.com/viesturz/tapchanger
 
 https://github.com/Stealthchanger/Toolchanger
