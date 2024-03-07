@@ -84,3 +84,7 @@ Pen Plotter,
 Laser Engraver,
 Pick and place,
 Other 
+
+#
+### Credits
+https://github.com/VoronDesign/Voron-Stealthburner
