@@ -13,6 +13,7 @@ https://www.aliexpress.com/item/1005004255703769.html?spm=a2g0o.order_detail.ord
 Bushing
 <img width="106" alt="Bushing 2024-03-07 at 19 06 34" src="https://github.com/alfskaar/Hydra/assets/31868161/7c34069d-42de-4e2f-86f9-eac2bfdfe223">
 <img width="190" alt="Bushing 2024-03-07 at 19 06 13" src="https://github.com/alfskaar/Hydra/assets/31868161/8f7fdd81-2394-4efd-b3ed-29062f637ebc">
+
 https://www.aliexpress.com/item/1005005335880614.html?spm=a2g0o.productlist.main.3.adeb7bcb60qlYa&algo_pvid=1eed7e33-0a1f-4754-a2ae-281e3dac1661&algo_exp_id=1eed7e33-0a1f-4754-a2ae-281e3dac1661-1&pdp_npi=4%40dis%21NOK%2118.67%2116.80%21%21%2112.70%2111.43%21%4021032dc617098345581521335ef1a8%2112000037875714932%21sea%21NO%214550078426%21&curPageLogUid=Y0uymCjm5xhP&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 
