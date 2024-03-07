@@ -32,6 +32,7 @@ Magnets, X2
 https://lecktor.com/en/v0-misc/390-round-n52-silver-magnets-6x3mm.html
 
 OPTOTAP
+
 X1 (Marlin)
 
 X1 ((Klipper) * (tools))
