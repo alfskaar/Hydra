@@ -20,7 +20,7 @@ https://www.aliexpress.com/item/1005005335880614.html?spm=a2g0o.productlist.main
 
 #
 V2 Shuttle
-X2, 3x8x3 MR83zz bearings.
+X2, 3x8x4 MR83zz bearings.
 https://www.google.com/search?q=MR83zz
 #
 V1 Shuttle
