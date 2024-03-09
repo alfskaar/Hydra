@@ -5,7 +5,8 @@ https://github.com/alfskaar/Hydra/commit/8cb29726a767612117fd642db2e9c7ac91441be
 
 #
 
-Octopus-Max-EZ
+
+Octopus-Max-EZ, 4 tools using Marlin
 
 #
 
