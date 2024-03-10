@@ -83,7 +83,7 @@ TYPE: HERMIT CRAB V2.0 - CAN VERSION
 
 Order 16.02.2024 , received 27.02.2024
 
-This will give you unlimited numbers of tools.
+This will give you unlimited numbers of virtual (Manuel) tools.
 Extruder,
 Cutter,
 Pen Plotter,
