@@ -73,7 +73,7 @@ Todo:
 Pictures & Video ones I'm ready to release it to the public.
 
 
-Add: Compatibility
+Add: Compatibility: Current status: CAD
 BTT HERMIT CRAB V2.0
 
 Parts I need to order:
