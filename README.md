@@ -75,7 +75,7 @@ Todo:
 Pictures & Video ones I'm ready to release it to the public.
 
 
-Add: Compatibility: BTT HERMIT CRAB V2.0 Current status: CAD
+Add: Compatibility: BTT HERMIT CRAB V2.0 Current status: CAD: Done, Next implementation.
 
 Parts I need to order:
 
