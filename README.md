@@ -75,7 +75,7 @@ Todo:
 Pictures & Video ones I'm ready to release it to the public.
 
 
-Add: Compatibility: BTT HERMIT CRAB V2.0 Current status: CAD: Both front & rear parts Done, Next implementation.
+Add: Compatibility: BTT HERMIT CRAB V2.0 Current status: CAD: Both front & rear parts Done 16.03.2024, Next implementation.
 
 Parts I need to order:
 
