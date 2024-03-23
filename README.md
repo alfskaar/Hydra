@@ -1,3 +1,6 @@
+## Jusf found my "MOSFET" bug. 23.03.2024 22:45:00 this take some time. ;-) is where pulling T1 to 0.70 volt and give it about 60 degrees Celsius.
+
+
 ## Hydra Toolchanger
 
 BOM, Date (DD.MM.YYYY) 07.03.2024
