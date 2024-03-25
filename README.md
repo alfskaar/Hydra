@@ -1,4 +1,4 @@
-## Jusf found my "MOSFET" bug. 23.03.2024 22:45:00 this take some time. ;-) it where pulling T1 (heater 1) to 0.70 volt and give it about 60 degrees Celsius.
+Just found my "MOSFET" isue. 23.03.2024 22:45:00 this take some time. ;-) it where pulling T1 (heater 1) to 0.70 volt and give it about 60 degrees Celsius.
 
 
 ## Hydra Toolchanger
