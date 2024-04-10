@@ -1,4 +1,4 @@
-Singel tool tested and nothing found. Nice and tight and not play that affect the 3d print.
+Singel tool tested and nothing found. Nice and tight and no play that affect the 3d print.
 Parameters for Hydra toolchanger tested and tuned smooth as bacon in butter. :-) 🧈  10.04.2024
 
 Just found my "MOSFET" isue. 23.03.2024 22:45:00 this take some time. ;-) it where pulling T1 (heater 1) to 0.70 volt and give it about 60 degrees Celsius. Fixed.
