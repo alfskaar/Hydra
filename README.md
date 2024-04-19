@@ -1,5 +1,4 @@
 2024 v7 release candidate
-
 ************************************************************
 Connecting...
 Printer is now online.
@@ -8,13 +7,12 @@ Using tool 0.
 SENDING:G34
 G34 Iteration: 1
 1:2=0.005 3-2=0.008 3-1=0.003 4-3=0.010 4-2=0.017 4-1=0.012
-
 Target accuracy achieved.
 Did 1 of 5
-
 Accuracy: 0.02
 ************************************************************
 18.04.2024 kl 17:24:00
+
 
 
 Singel tool tested and nothing found. Nice and tight and no play that affect the 3d print.
