@@ -7,7 +7,7 @@ Printer is now online.
 
 Using tool 0.
 
->>> g34
+g34
 
 SENDING:G34
 
