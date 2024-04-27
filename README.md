@@ -3,6 +3,10 @@
 2024 04 26 Voron 2.4 Marlin Hydra tool changer
 https://www.youtube.com/watch?v=dxacGMmqg3s
 
+My added C code and config files are uploaded to this PR's
+"platformio.ini, Configuration.h, Configuration_adv.h, pins_BTT_OCTOPUS_MAX_EZ.h, tool_change.cpp"
+https://github.com/MarlinFirmware/Marlin/pull/26956
+
 
 2024 v7 release candidate
 ************************************************************
