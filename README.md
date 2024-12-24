@@ -10,9 +10,11 @@ Release candidate 24.12.2024
 (Hydra Head MGN9 for now. MGN12 is comminig (same Hydra Head offsets but alter the placement of the pulleys it is done I just need to test them))
 
 Link: Hydra Tools SB
+
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_Tools.STL
 
 Link: Hydra Head MGN9, 6mm Belt
+
 https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9.STL
 
 
