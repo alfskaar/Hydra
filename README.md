@@ -20,6 +20,13 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.
 
 ************************************************************
 
+<img width="966" alt="stealthburner_clip_section" src="https://github.com/user-attachments/assets/27685f81-cbdd-442c-8d07-2ad5dd7e1e85" />
+
+<img width="430" alt="stealthburner_clip" src="https://github.com/user-attachments/assets/a95d224c-f796-4940-b4a8-0fa2e5c1d46d" />
+
+
+Link:
+https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealthburner_clip.stl
 
 <img width="623" alt="Left_TBG_Lite_Stealthburner_01" src="https://github.com/user-attachments/assets/1b805e59-908c-46ac-9d32-e5042c4a9e99" />
 
