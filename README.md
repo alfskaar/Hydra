@@ -7,7 +7,7 @@
 
 Release candidate 24.12.2024
 
-I will upload Hydra Head belt holders 6mm (MGN9 for now MGN12 is comminig (same Hydra Head but alter the placement of the pulleys it is done I just need to test them)) when I get back home sorry about that you can start building the tools/Head and enjoy how easy it is to print or CNC, some of the parts. ;-)
+I will upload Hydra Head belt holders 6mm (Hydra Head MGN9 for now. MGN12 is comminig (same Hydra Head but alter the placement of the pulleys it is done I just need to test them)) when I get back home sorry about that you can start building the tools/Head and enjoy how easy it is to print or CNC, some of the parts. ;-)
 
 Link: Hydra Tools SB
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_Tools.STL
