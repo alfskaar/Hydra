@@ -7,7 +7,7 @@
 
 Release candidate 24.12.2024
 
-(Hydra Head MGN9 for now. MGN12 is comminig (same Hydra Head offsets but alter the placement of the pulleys it is done I just need to test them))
+(Hydra Head MGN9H for now. MGN12 H & C is comminig (same Hydra Head offsets but alter the placement of the pulleys it is done I just need to test them))
 
 Link: Hydra Tools SB
 
