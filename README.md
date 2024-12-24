@@ -208,3 +208,5 @@ https://github.com/Stealthchanger/Toolchanger
 https://github.com/bigtreetech/HermitCrab/tree/master/HermitCrab2
 
 https://github.com/majarspeed/Misc-Voron/tree/main/StealthBurner%20Umbilical%20cover
+
+https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount
