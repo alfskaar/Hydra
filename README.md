@@ -49,6 +49,12 @@ https://github.com/alfskaar/Hydra/tree/main/STLs/Extruders/TBG_Lite_Left_Extrude
 
 ************************************************************
 
+Umbilical using Cat 8 cable for 4 tools
+
+https://github.com/alfskaar/Hydra/tree/main/STLs/Voron_2.4/Gantry/AB_Drive_Units_v_Umbilical
+
+************************************************************
+
 
 
 2024 04 26 Voron 2.4 Marlin Hydra tool changer
