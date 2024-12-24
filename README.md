@@ -35,8 +35,6 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealth
 
 <img width="434" alt="Dock_SB_clip_re_inforce_20mm" src="https://github.com/user-attachments/assets/41f54674-d6e1-41a4-a4b4-e0ecb289f828" />
 
-<img width="704" alt="Top_Dock_SB_clip_insert_20mm_screw_0 08_lock" src="https://github.com/user-attachments/assets/fc3c74fb-f404-4124-bc81-2a86418c32ab" />
-
 Link: Dock
 https://github.com/alfskaar/Hydra/tree/main/STLs/Toolheads/Stealthburner/Dock/RatRig_V-SLOT_2020
 
