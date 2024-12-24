@@ -13,7 +13,7 @@ Link: Hydra Tools SB
 
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_Tools.STL
 
-Link: Hydra Head MGN9, 6mm Belt
+Link: Hydra Head MGN9H, 6mm Belt
 
 https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9.STL
 
