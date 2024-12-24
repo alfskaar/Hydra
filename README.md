@@ -96,9 +96,11 @@ https://www.google.com/search?q=MR83zz
 #
 Will only be released if you ask for it. Please use v2 Shuttle BOM.
 
+~~
 V1 Shuttle
 X2, 3x10x4 623 Bearings.
 https://www.google.com/search?q=623+bearing
+~~
 #
 Magnets, X2
 
