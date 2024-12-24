@@ -18,6 +18,11 @@ Link: Hydra Head MGN9H, 6mm Belt
 https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.STL
 
 
+************************************************************
+
+
+https://github.com/alfskaar/Hydra/blob/main/STLs/Extruders/TBG_Lite_Left_Extruder/Left_TBG_Lite_Stealthburner_01.png
+
 
 ************************************************************
 
