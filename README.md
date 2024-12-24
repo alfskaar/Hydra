@@ -15,7 +15,7 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_T
 
 Link: Hydra Head MGN9H, 6mm Belt
 
-https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9.STL
+https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.STL
 
 
 
