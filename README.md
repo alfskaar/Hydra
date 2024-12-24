@@ -31,11 +31,6 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealth
 Or for additional holding down to bed.
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealthburner_clip_ears.stl
 
-<img width="623" alt="Left_TBG_Lite_Stealthburner_01" src="https://github.com/user-attachments/assets/1b805e59-908c-46ac-9d32-e5042c4a9e99" />
-
-Link:
-https://github.com/alfskaar/Hydra/tree/main/STLs/Extruders/TBG_Lite_Left_Extruder
-
 ************************************************************
 
 <img width="434" alt="Dock_SB_clip_re_inforce_20mm" src="https://github.com/user-attachments/assets/41f54674-d6e1-41a4-a4b4-e0ecb289f828" />
@@ -44,6 +39,13 @@ https://github.com/alfskaar/Hydra/tree/main/STLs/Extruders/TBG_Lite_Left_Extrude
 
 Link: Dock
 https://github.com/alfskaar/Hydra/tree/main/STLs/Toolheads/Stealthburner/Dock/RatRig_V-SLOT_2020
+
+************************************************************
+
+<img width="623" alt="Left_TBG_Lite_Stealthburner_01" src="https://github.com/user-attachments/assets/1b805e59-908c-46ac-9d32-e5042c4a9e99" />
+
+Link:
+https://github.com/alfskaar/Hydra/tree/main/STLs/Extruders/TBG_Lite_Left_Extruder
 
 ************************************************************
 
