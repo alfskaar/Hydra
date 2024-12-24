@@ -27,6 +27,8 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.
 
 Link:
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealthburner_clip.stl
+Or for additional holding down to bed.
+https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/stealthburner_clip_ears.stl
 
 <img width="623" alt="Left_TBG_Lite_Stealthburner_01" src="https://github.com/user-attachments/assets/1b805e59-908c-46ac-9d32-e5042c4a9e99" />
 
