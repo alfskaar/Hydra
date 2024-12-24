@@ -5,7 +5,7 @@
 
 ![2024_v7_Hydra_Tool_Changer](https://github.com/user-attachments/assets/3ce1d50a-5780-406a-b5fd-529a8906fef1)
 
-I will upload Hydra Head when I get back home sorry about that you can start building the tools and enjoy how easy it is to print or CNC. :-)
+I will upload Hydra Head (MGN9mm for now MGN12mm is comminig) when I get back home sorry about that you can start building the tools and enjoy how easy it is to print or CNC, some of the parts. ;-)
 
 Link: Hydra Tools SB
 https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_Tools.STL
