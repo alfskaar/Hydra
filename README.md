@@ -1,4 +1,4 @@
-28.02.2025 15:00 I have a new version this one doesn’t use any bearings or adjustments screws. Have less parts. I’m currently testing it. It use the spring from the Voron Extruder. I have not texted tool changes yet hopefully this doesn’t introduce a new problem.
+28.02.2025 15:00 I have a new version this one doesn’t use any bearings or adjustments screws. Have less parts. I’m currently testing it. It use the spring from the Voron Extruder. I have not tested tool changes yet hopefully this doesn’t introduce a new problem.
 
 
 
