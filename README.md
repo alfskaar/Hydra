@@ -2,11 +2,8 @@
 
 28.02.2025 15:00 I have a new version this one doesn’t use any bearings or adjustments screws. Have less parts. I’m currently testing it. It use the spring from the Voron Extruder. ~~I have not tested tool changes yet hopefully this doesn’t introduce a new problem.~~
 
-
-
-https://github.com/alfskaar/Hydra/blob/main/images/hydra_front.jpg
-https://github.com/alfskaar/Hydra/blob/main/images/hydra_rear.jpg
-~~![2024_v7_Hydra_Tool_Changer](https://github.com/user-attachments/assets/3ce1d50a-5780-406a-b5fd-529a8906fef1)~~
+![hydra_front](https://github.com/user-attachments/assets/0223114d-5b46-492c-88ee-cf0c08a8513e)
+![hydra_rear](https://github.com/user-attachments/assets/a0d41e86-5c02-4332-81ea-332b938b17f5)
 
 Release candidate 16.03.2025 This version use Exstruder spring at the center of the MGN9/12
 
