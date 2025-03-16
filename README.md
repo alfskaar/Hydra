@@ -13,7 +13,7 @@ Release candidate 24.12.2024
 
 Link: Hydra Tools SB
 
-https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Stealthburner/Hydra_Tools.STL
+https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Hydra_Tools.STL
 
 Link: Hydra Head MGN9H, 6mm Belt
 
