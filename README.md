@@ -19,6 +19,9 @@ Link: Hydra Head MGN9H, 6mm Belt
 
 https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.STL
 
+Link: Hydra Head MGN12H, 6mm Belt, you also need the new XY_joints_6mm_belt, as Hydra Head are the same offset for the belt for both MGN9 & MGN12
+https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN12H/Hydra_Head_MGN12H.STL
+
 
 ************************************************************
 
