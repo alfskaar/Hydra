@@ -4,7 +4,8 @@
 
 
 
-
+https://github.com/alfskaar/Hydra/blob/main/images/hydra_front.jpg
+https://github.com/alfskaar/Hydra/blob/main/images/hydra_rear.jpg
 ~~![2024_v7_Hydra_Tool_Changer](https://github.com/user-attachments/assets/3ce1d50a-5780-406a-b5fd-529a8906fef1)~~
 
 Release candidate 16.03.2025 This version use Exstruder spring at the center of the MGN9/12
