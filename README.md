@@ -139,11 +139,12 @@ Bushing, X3 * (tools)
 https://www.aliexpress.com/item/1005005335880614.html?spm=a2g0o.productlist.main.3.adeb7bcb60qlYa&algo_pvid=1eed7e33-0a1f-4754-a2ae-281e3dac1661&algo_exp_id=1eed7e33-0a1f-4754-a2ae-281e3dac1661-1&pdp_npi=4%40dis%21NOK%2118.67%2116.80%21%21%2112.70%2111.43%21%4021032dc617098345581521335ef1a8%2112000037875714932%21sea%21NO%214550078426%21&curPageLogUid=Y0uymCjm5xhP&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 #
-V2 Shuttle
-X2, 3x8x4 MR83zz bearings.
-https://www.google.com/search?q=MR83zz
+~~V2 Shuttle~~
+~~X2, 3x8x4 MR83zz bearings.~~
+~~https://www.google.com/search?q=MR83zz~~
+
 #
-Will only be released if you ask for it. Please use v2 Shuttle BOM.
+~~Will only be released if you ask for it. Please use v2 Shuttle BOM.~~
 
 
 ~~ ~~V1 Shuttle 
@@ -218,6 +219,8 @@ https://github.com/VoronDesign/Voron-2
 https://github.com/PrintersForAnts/Boop
 
 https://github.com/viesturz/tapchanger
+
+
 
 https://github.com/Stealthchanger/Toolchanger
 
