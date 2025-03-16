@@ -15,7 +15,7 @@ Release candidate 24.12.2024 this version is deleted.
 
 Link: Hydra Tools SB
 
-https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Hydra_Tools.STL
+https://github.com/alfskaar/Hydra/blob/main/STLs/Toolheads/Hydra_Tool.stl
 
 Link: Hydra Head MGN9H, 6mm Belt
 
