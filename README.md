@@ -1,3 +1,5 @@
+New Version released today 16.03.2025 kl 21:42
+
 08.03.2025 I have tested printing 2020 Extrusions 293mm looks very promising. :-) 🤩 This also use MGN12H 😊
 
 28.02.2025 15:00 I have a new version this one doesn’t use any bearings or adjustments screws. Have less parts. I’m currently testing it. It use the spring from the Voron Extruder. ~~I have not tested tool changes yet hopefully this doesn’t introduce a new problem.~~
