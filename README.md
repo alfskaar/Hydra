@@ -11,7 +11,7 @@ Release candidate 16.03.2025 This version use Exstruder spring at the center of 
 
 ~~Release candidate 24.12.2024 this version is deleted.~~
 
-(Hydra Head MGN9H for now. MGN12 H & C is comminig (same Hydra Head offsets but alter the placement of the pulleys it is done I just need to test them))
+~~(Hydra Head MGN9H for now. MGN12 H & C is comminig (same Hydra Head offsets but alter the placement of the pulleys it is done I just need to test them))~~
 
 Link: Hydra Tools SB
 
