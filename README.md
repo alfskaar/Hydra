@@ -115,7 +115,7 @@ Parameters for Hydra toolchanger tested and tuned smooth as bacon in butter. :-)
 
 ## Hydra Toolchanger
 
-BOM, Date (DD.MM.YYYY) 07.03.2024
+BOM, Date (DD.MM.YYYY) 16.03.2025
 https://github.com/alfskaar/Hydra/commit/8cb29726a767612117fd642db2e9c7ac91441bed#commitcomment-139513031
 
 #
