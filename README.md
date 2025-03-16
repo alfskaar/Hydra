@@ -56,6 +56,9 @@ https://github.com/alfskaar/Hydra/tree/main/STLs/Toolheads/Stealthburner/Dock/Ra
 Link:
 https://github.com/alfskaar/Hydra/tree/main/STLs/Extruders/TBG_Lite_Left_Extruder
 
+Added Cover with cut out and support
+https://github.com/alfskaar/Hydra/blob/main/STLs/Extruders/TBG_Lite_Left_Extruder/TBG_Lite_StealthBurner_Umbilical_cover_cutout_support.stl
+
 ************************************************************
 
 Umbilical using Cat 8 cable for 4 tools
