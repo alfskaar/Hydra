@@ -21,9 +21,11 @@ https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN9H/Hydra_Head_MGN9H.
 
 Link: Hydra Head MGN12H, 6mm Belt, you also need the new XY_joints_6mm_belt, as Hydra Head are the same offset for the belt for both MGN9 & MGN12
 
-All my parts are made for the RatRig 2020 V profile extrusions. And all my Voron 2.4 are custom sizes.
-
 https://github.com/alfskaar/Hydra/blob/main/STLs/Shuttle/MGN12H/Hydra_Head_MGN12H.stl
+
+https://github.com/alfskaar/Hydra/tree/main/STLs/Voron_2.4/Gantry/X_Axis/XY_Joints
+
+All my parts are made for the RatRig 2020 V profile extrusions. And all my Voron 2.4 are custom sizes.
 
 ************************************************************
 
